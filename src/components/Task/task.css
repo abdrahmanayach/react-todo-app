@@ -1,0 +1,27 @@
+.task {
+  background: #15101c;
+  border-radius: 0.5rem;
+  color: #9e78cf;
+  padding: 0.5rem 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.task .title {
+  color: #9e78cf;
+}
+
+.task .completed {
+  color: #78cfb0;
+  text-decoration: line-through;
+}
+
+.icons {
+  display: flex;
+  gap: 1rem;
+}
+
+.icons img {
+  cursor: pointer;
+}

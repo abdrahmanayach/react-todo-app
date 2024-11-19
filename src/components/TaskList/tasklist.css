@@ -1,0 +1,24 @@
+.todo-list {
+  margin-top: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  max-height: 150px;
+  overflow-y: auto;
+  z-index: 2;
+}
+
+.todo-title {
+  position: sticky;
+  color: white;
+  z-index: 1;
+}
+
+.todo-list::-webkit-scrollbar {
+  width: 8px;
+  color: transparent;
+}
+
+.todo-list > .title {
+  color: white;
+}

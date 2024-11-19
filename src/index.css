@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap");
+
+body {
+  background-color: #0d0714;
+  font-family: "Inter", Arial, Helvetica, sans-serif;
+}
+
+.container {
+  background-color: #1d1825;
+  border-radius: 1rem;
+  width: 25%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 3rem 4rem;
+}
