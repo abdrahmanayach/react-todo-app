@@ -5,7 +5,7 @@
 
 <h3>Features</h3>
 <ul>
-  <li><strong>Add Tasks:</strong> Create new tasks with titles and descriptions.</li>
+  <li><strong>Add Tasks:</strong> Create new tasks with descriptions.</li>
  
   <li><strong>Delete Tasks:</strong> Remove tasks that are no longer needed.</li>
   <li><strong>Mark Tasks as Completed:</strong> Toggle between completed and pending tasks.</li>
